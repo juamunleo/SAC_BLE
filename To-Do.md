@@ -1,18 +1,18 @@
-##Environment
+## Environment
 - Escritura configuracion
 
-##Interface
+## Interface
 - escritura configuracion led
 - lectura de boton
 
-##Motion
+## Motion
 - lectura orientation
 - lectura steps
 - (?)lectura gravity
 
-##Sound
+## Sound
 - escritura configuracion
 - escritura speaker data
 
-##Battery
+## Battery
 - lectura de % de bateria
