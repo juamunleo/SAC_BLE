@@ -1,5 +1,7 @@
-## Motion
-- lectura gravity
+## Errores
+
+- Arreglar lectura de botón
+- Arreglar lectura de orientación
 
 ## Sound
 - escritura configuracion
